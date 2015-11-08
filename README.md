@@ -1,9 +1,8 @@
 # Project3
 Golf Club
 
-Trello Link:
-Link To Golf Club Website:
-Link to Trello: https://trello.com/b/bX7FMnIl/project-3
+Link To Golf Club Website:  http://golf-club-p3.herokuapp.com/
+Trello Link:  https://trello.com/b/bX7FMnIl/project-3
 Wireframes:
 http://i61.tinypic.com/2qa8lna.png (41KB)
 
